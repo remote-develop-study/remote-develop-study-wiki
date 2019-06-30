@@ -5,7 +5,7 @@
 
 - **저장소** : [html-css-clone](https://github.com/remote-develop-study/html-css-clone)
 
-- **멤버:** <a href="https://github.com/Kihyun92">@김기현</a>, <a href="https://github.com/KimYeaSeul">@김예슬</a>, <a href="https://github.com/kimchunyong">@김천용</a>, <a href="https://github.com/brightparagon">@노경모</a>, <a href="https://github.com/JeewhanR">@류지환</a>, <a href="https://github.com/ysm0622">@양성민</a>, <a href="https://github.com/choilim">@임초이</a>, <a href="https://github.com/devjang">@장현석</a>
+- **멤버:** <a href="https://github.com/KimYeaSeul">@김예슬</a>, <a href="https://github.com/kimchunyong">@김천용</a>, <a href="https://github.com/brightparagon">@노경모</a>, <a href="https://github.com/JeewhanR">@류지환</a>, <a href="https://github.com/ysm0622">@양성민</a>, <a href="https://github.com/choilim">@임초이</a>, <a href="https://github.com/devjang">@장현석</a>
 
 ## JavaScript 30
 - **기간:** 2019/02/25 ~ 2019/05/12
